@@ -13,10 +13,6 @@
 ---
 
 **find end-effector position base on the joint values**
-280	56	-18	150	30	90-	Theta(deg)
-220	30	100	30	120	150	d1(mm)
-110	170	0	0	80	100	d2(mm)
--130.1	191	33.5	-24	94	-130	x(mm)
--68.6	-74.5	-42.4	48.5	-72.8	-45	Y(mm)
-242.5	52.5	122.5	52.5	142.5	172.5	z(mm)
+
+<img width="1210" height="298" alt="image" src="https://github.com/user-attachments/assets/db84d1be-f6e1-465f-9b6d-88afcaa9c703" />
 
