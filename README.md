@@ -12,7 +12,7 @@
 
 ---
 
-**find end-effector position base on the joint values**
+**Finding end-effector position base on the joint values**
 
 <img width="1210" height="298" alt="image" src="https://github.com/user-attachments/assets/db84d1be-f6e1-465f-9b6d-88afcaa9c703" />
 
